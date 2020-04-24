@@ -1,2 +1,3 @@
-# LeetCode
-记录我在力扣刷题的记录
+# Vim-config
+
+分享我的vim 的配置,可以一键配置
